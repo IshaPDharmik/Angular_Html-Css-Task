@@ -1,0 +1,26 @@
+*{
+    color: salmon;
+}
+h1{
+    color: purple;
+} 
+
+.first{
+    color: rgb(1, 67, 67);
+}
+.second{
+    color: rgb(100, 6, 6);
+} 
+ 
+#mydiv{
+    color: rgb(245, 26, 99);
+}
+ inpur[type="text"]{
+    width: 400px;
+ }
+ span, b{
+     color: rgb(11, 6, 1);
+ }
+ div p{
+    background-color: rgb(123, 52, 127);
+ }
